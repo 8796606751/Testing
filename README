@@ -1,0 +1,12 @@
+	 * Pre-requisite:
+	 * 1. Open Browser
+	 * 2. Open URL "https://courses.letskodeit.com/practice"
+	 * 
+	 * Test Case1:
+	 * 1. Find a Textbox element
+	 * 2. Enter "Pranoday" in that textbox
+	 * 3. Retrieve entered name and keep it in a variable
+	 * 4. Find Alert button
+	 * 5. Click on it
+	 * 6. Read a message shown by an alert box and keep it in some other variable
+	 * 7.Check that a message read from a alert box contains name we had entered.
